@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estados-componentes-react/static/css/main.f4dc68ec.css",
+    "main.js": "/estados-componentes-react/static/js/main.0a8f0b8b.js",
+    "index.html": "/estados-componentes-react/index.html",
+    "main.f4dc68ec.css.map": "/estados-componentes-react/static/css/main.f4dc68ec.css.map",
+    "main.0a8f0b8b.js.map": "/estados-componentes-react/static/js/main.0a8f0b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4dc68ec.css",
+    "static/js/main.0a8f0b8b.js"
+  ]
+}
